@@ -60,6 +60,10 @@ export default defineConfig({
                             text: 'Matrix 通讯',
                             link: '/peripheral/matrix/'
                         },
+                        {
+                            text: 'BiliSync 哔哩同步',
+                            link: '/peripheral/bilisync/'
+                        },
                     ],
                 },
                 {
@@ -93,7 +97,11 @@ export default defineConfig({
                         {
                             text: '赞助',
                             link: '/sponsor/',
-                        }
+                        },
+                        {
+                            text: '官方机器人列表',
+                            link: '/bots/',
+                        },
                     ]
                 }
             ],
