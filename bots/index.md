@@ -7,4 +7,4 @@
 
 :::
 
-[BiliSync]：/peripheral/bilisync/
+[BiliSync]: /peripheral/bilisync/
