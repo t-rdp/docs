@@ -1,0 +1,19 @@
+{
+  "name": "t-docs",
+  "version": "1.0.0",
+  "description": "Documents for t",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "repository": "git@github.com:t-rdp/docs.git",
+  "author": "Launchpad <admin@rdpstudio.top>",
+  "license": "CC-BY-SA-4.0",
+  "private": false,
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.48",
+    "vue": "^3.2.47"
+  }
+}
