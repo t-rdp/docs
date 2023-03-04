@@ -2,7 +2,7 @@
 
 ::: tip 贴心提示
 
-您需要前往[获取邀请码](https://t.rdpstudio.top/_service/join)获取邀请码，然后返回[主站](https://t.rdpstudio.top)注册。
+您需要联系天空岛的成员获取邀请码，然后才能注册。
 
 :::
 
